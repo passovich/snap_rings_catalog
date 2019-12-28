@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Каталог стопорных колец</string>
+    <string name="bearings">Подшипники</string>
+    <string name="snap_rings">Стопорные кольца</string>
+    <string name="snap_rings_inner">Внутренние стопорные кольца</string>
+    <string name="snap_rings_outer">Внешние стопорные кольца</string>
+    <string name="exit">Выход</string>
+</resources>

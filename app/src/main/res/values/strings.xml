@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bearings and Snap rings catalog</string>
+    <string name="bearings">Bearings</string>
+    <string name="snap_rings">Snap rings</string>
+    <string name="snap_rings_inner">Inner snap rings</string>
+    <string name="snap_rings_outer">Outer snap rings</string>
+    <string name="exit">Exit</string>
+</resources>
